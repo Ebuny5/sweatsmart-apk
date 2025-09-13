@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "guru.sweatsmart.www.twa",
+        "sha256_cert_fingerprints": ["31:D6:36:BD:7C:34:A0:EA:B4:49:CB:C1:95:00:52:F3:1B:EF:74:1C:50:49:E4:D3:25:9D:CB:27:F0:85:E9:FA"]
+      }
+    }]
